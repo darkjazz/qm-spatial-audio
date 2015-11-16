@@ -1,0 +1,549 @@
+# Created by Octave 3.6.1, Thu Jun 04 13:14:09 2015 BST <alo@neopkwaii>
+# name: S
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: id
+# type: cell
+# rows: 1
+# columns: 16
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+TT
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+FF
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+H1
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+H2
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+H3
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+H4
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+H5
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+H6
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+T1
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+T2
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+T3
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+T4
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B1
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B2
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B3
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B4
+
+
+
+
+
+# name: az
+# type: matrix
+# rows: 16
+# columns: 1
+ 0
+ 0
+ 0.731292956585624
+ 1.651081472386636
+ 2.62846585350346
+ -2.659881780039358
+ -1.649336143134641
+ -0.767944870877505
+ 0
+ 1.570796326794897
+ 3.141592653589793
+ -1.570796326794897
+ -0.7853981633974483
+ 0.7853981633974483
+ 2.356194490192345
+ -2.356194490192345
+
+
+# name: el
+# type: matrix
+# rows: 16
+# columns: 1
+ 1.570796326794897
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0.4939281783143953
+ 0.4747295565424576
+ 0.4660029102824859
+ 0.4799655442984406
+ -0.5061454830783556
+ -0.5235987755982988
+ -0.4520402762665313
+ -0.4852015320544236
+
+
+# name: r
+# type: matrix
+# rows: 16
+# columns: 1
+ 3.5793982
+ 1.9357975
+ 1.7316235
+ 2.6912413
+ 2.2726846
+ 2.429218
+ 2.735479
+ 1.8575308
+ 2.4666499
+ 2.4666499
+ 2.599363
+ 2.497276
+ 1.3232755
+ 1.3709161
+ 1
+ 1.2313972
+
+
+# name: name
+# type: string
+# elements: 1
+# length: 19
+qmul-listening-room
+
+
+# name: x
+# type: matrix
+# rows: 16
+# columns: 1
+ 6.123233995736766e-17
+ 1
+ 0.7443115462311541
+ -0.08019892432885897
+ -0.8712138111201894
+ -0.8862035792312147
+ -0.07845909572784487
+ 0.7193398003386512
+ 0.880477353509162
+ 5.446104573302175e-17
+ -0.8933713883278376
+ 5.43137488830368e-17
+ 0.618449525877659
+ 0.6123724356957946
+ -0.6360834055683173
+ -0.6254932060831951
+
+
+# name: y
+# type: matrix
+# rows: 16
+# columns: 1
+ 0
+ 0
+ 0.6678325554710466
+ 0.9967788784562471
+ 0.490903753615141
+ -0.4632960351198616
+ -0.996917333733128
+ -0.6946583704589973
+ 0
+ 0.8894163732912975
+ 1.094064411165513e-16
+ -0.8870108331782217
+ -0.6184495258776589
+ 0.6123724356957945
+ 0.6360834055683174
+ -0.6254932060831953
+
+
+# name: z
+# type: matrix
+# rows: 16
+# columns: 1
+ 1
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0.4740882090471163
+ 0.4570979270586942
+ 0.4493189986158965
+ 0.4617486132350339
+ -0.4848096202463371
+ -0.4999999999999999
+ -0.4368017883677022
+ -0.4663866403398911
+
+
+
+
+# name: C
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 12
+# name: h_order
+# type: scalar
+1
+
+
+# name: v_order
+# type: scalar
+1
+
+
+# name: scheme
+# type: sq_string
+# elements: 1
+# length: 2
+HP
+
+
+# name: sh_l
+# type: matrix
+# rows: 1
+# columns: 4
+ 0 1 1 1
+
+
+# name: sh_m
+# type: matrix
+# rows: 1
+# columns: 4
+ 0 1 -1 0
+
+
+# name: sh_cs_phase
+# type: range
+# base, length, increment
+1 4 0
+
+
+# name: norm
+# type: matrix
+# rows: 1
+# columns: 4
+ 0.7071067811865475 0.5773502691896258 0.5773502691896258 0.5773502691896258
+
+
+# name: names
+# type: sq_string
+# elements: 1
+# length: 4
+WXYZ
+
+
+# name: channels
+# type: lazy_index
+# name: index_value
+# type: matrix
+# rows: 1
+# columns: 4
+ 1 2 3 4
+
+
+
+
+# name: mask
+# type: bool matrix
+# rows: 1
+# columns: 16
+ 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+# name: ordering_rule
+# type: sq_string
+# elements: 1
+# length: 4
+fuma
+
+
+# name: encoding_convention
+# type: sq_string
+# elements: 1
+# length: 4
+fuma
+
+
+
+
+# name: M
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: lf
+# type: matrix
+# rows: 16
+# columns: 4
+ 0.05894586181932406 -0.002051905448124712 -0.0003040070387135889 0.3501577328876826
+ 0.08363868632628418 0.1435711802628125 0.0008784406396865811 -0.0195123691036456
+ 0.08530378655953 0.1062709347665938 0.1033348478464553 -0.02036815003616337
+ 0.09090661491456682 -0.01577784473603929 0.1531237318941584 -0.0227381324308027
+ 0.09638692404347331 -0.1336643306544409 0.07456015904508261 -0.0248364188244343
+ 0.09661162687002771 -0.1368135261192203 -0.07219814465972675 -0.02467446667787514
+ 0.09114977028658434 -0.01745133607874865 -0.1534796789952592 -0.0223075415254613
+ 0.08564906522523562 0.1012446954491235 -0.1062231065886965 -0.02014685242897079
+ 0.06950461851753736 0.1271548839086897 0.0006613966765294112 0.1567328277278986
+ 0.0759547727727002 -0.002704416601588296 0.1365928408967204 0.1477588687329736
+ 0.08243026370949288 -0.1361751789546566 -0.001052005932146363 0.1425596556889662
+ 0.07603536404951215 -0.004412634996792258 -0.1366000417102965 0.1498704021970436
+ 0.1016205587068326 0.08499293752263432 -0.09449738233601475 -0.2010163920044162
+ 0.1019837899942358 0.08524120353404152 0.09478472199395468 -0.2069539731723923
+ 0.108534939227749 -0.09984575530234906 0.09720803604097035 -0.186902487671556
+ 0.1095569193500102 -0.09957890655193496 -0.09678980777270417 -0.1976227033588461
+
+
+# name: hf
+# type: matrix
+# rows: 16
+# columns: 4
+ 0.05894586181932406 -0.002051905448124712 -0.0003040070387135889 0.3501577328876826
+ 0.08363868632628418 0.1435711802628125 0.0008784406396865811 -0.0195123691036456
+ 0.08530378655953 0.1062709347665938 0.1033348478464553 -0.02036815003616337
+ 0.09090661491456682 -0.01577784473603929 0.1531237318941584 -0.0227381324308027
+ 0.09638692404347331 -0.1336643306544409 0.07456015904508261 -0.0248364188244343
+ 0.09661162687002771 -0.1368135261192203 -0.07219814465972675 -0.02467446667787514
+ 0.09114977028658434 -0.01745133607874865 -0.1534796789952592 -0.0223075415254613
+ 0.08564906522523562 0.1012446954491235 -0.1062231065886965 -0.02014685242897079
+ 0.06950461851753736 0.1271548839086897 0.0006613966765294112 0.1567328277278986
+ 0.0759547727727002 -0.002704416601588296 0.1365928408967204 0.1477588687329736
+ 0.08243026370949288 -0.1361751789546566 -0.001052005932146363 0.1425596556889662
+ 0.07603536404951215 -0.004412634996792258 -0.1366000417102965 0.1498704021970436
+ 0.1016205587068326 0.08499293752263432 -0.09449738233601475 -0.2010163920044162
+ 0.1019837899942358 0.08524120353404152 0.09478472199395468 -0.2069539731723923
+ 0.108534939227749 -0.09984575530234906 0.09720803604097035 -0.186902487671556
+ 0.1095569193500102 -0.09957890655193496 -0.09678980777270417 -0.1976227033588461
+
+
+
+
+# name: V
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: H
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: V2R
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: Sa
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: D
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 13
+# name: decoder_type
+# type: scalar
+2
+
+
+# name: freq_bands
+# type: scalar
+2
+
+
+# name: hf_gains
+# type: matrix
+# rows: 1
+# columns: 2
+ 2.82842712474619 1.632993161855452
+
+
+# name: lf_gains
+# type: range
+# base, length, increment
+1 2 0
+
+
+# name: description
+# type: sq_string
+# elements: 1
+# length: 52
+qmul-listening-room_1h1p_pinv_match_rV_max_rE_2_band
+
+
+# name: delay_comp
+# type: sq_string
+# elements: 1
+# length: 2
+on
+
+
+# name: level_comp
+# type: sq_string
+# elements: 1
+# length: 2
+on
+
+
+# name: xover_freq
+# type: scalar
+400
+
+
+# name: xover_ratio
+# type: scalar
+0
+
+
+# name: coeff_order
+# type: sq_string
+# elements: 1
+# length: 4
+fuma
+
+
+# name: coeff_scale
+# type: sq_string
+# elements: 1
+# length: 4
+fuma
+
+
+# name: input_scale
+# type: sq_string
+# elements: 1
+# length: 4
+fuma
+
+
+# name: neff_comp
+# type: sq_string
+# elements: 1
+# length: 6
+output
+
+
+
+
+# name: Gamma
+# type: matrix
+# rows: 1
+# columns: 2
+ 2.82842712474619 1.632993161855452
+
+
+# name: sysver
+# type: sq_string
+# elements: 1
+# length: 24
+GNU Octave Version 3.6.1
+
+
