@@ -464,7 +464,7 @@
         "Azimuth": 6.7e1,
         "Elevation": 3.170000076293945e1,
         "Radius": 2.81,
-        "IsImaginary": true,
+        "IsImaginary": false,
         "Channel": 2,
         "Gain": 1
       },
